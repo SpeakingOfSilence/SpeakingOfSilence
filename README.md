@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpeakingOfSilence
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning the basics
+- 💞️ I’m looking to collaborate on scanning/enumeration tools
+- 📫 I can be reached at g.hiddenname@protonmail.com
